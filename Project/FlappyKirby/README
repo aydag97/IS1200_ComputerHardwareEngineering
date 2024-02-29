@@ -1,0 +1,19 @@
+Developers: Ayda Ghalkhanbaz & Fatima Mohammad Ali
+Date: 2023-03-02
+
+Welcome to Flappy Kirby Game (Mini Project For IS1200 course-KTH)!
+
+Flappy Kirby is an implementation of the classic game Flappy Bird on PIC32 microcontroller chip kit. The game is
+coded in C and Assembly languages.
+
+P.S. Refer to the mipslab.h file for the project´s specific implementations.
+
+HOW TO PLAY:
+- Button 4 on the IO shield is used to move Kirby.
+- Button 2 is used to reset/continue (in the menu).
+
+
+HOW TO COMPILE:
+- In order to play this game, mcb32tools is needed to compile and run the code on uno32 chipKIT board + IO shield.
+
+Have fun and try not to hit Kirby on pillars!
